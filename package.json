@@ -1,0 +1,22 @@
+{
+  "name": "prject-1",
+  "version": "1.0.0",
+  "description": "app of restorent",
+  "main": "index.js",
+  "scripts": {
+    "test": "server.js"
+  },
+  "author": "aliyan towrat,sherox kiram",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.2",
+    "nodemailer": "^6.9.7",
+    "path": "^0.12.7",
+    "uuid": "^9.0.1"
+  }
+}
